@@ -1,0 +1,15 @@
+{
+  "name": "sample-ts-module",
+  "version": "1.0.0",
+  "description": "Typsript Module Boilerplate",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Qus",
+  "license": "ISC",
+  "dependencies": {}
+}
